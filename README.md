@@ -7,7 +7,7 @@ For the past 20 years, I've been learning how people make computers to turn the 
 
 - 👨🏻‍💻 I’m currently working on an online coaching platform, using [Strapi](https://github.com/strapi/strapi) and [Nuxt.js](https://github.com/nuxt/nuxt.js)
 - 🌱 I’m currently learning [Rust](https://github.com/rust-lang)
-- - 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: My first encounter with a computer was an IBM mainframe.
 
 <!--
