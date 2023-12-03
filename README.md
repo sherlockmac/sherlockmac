@@ -2,11 +2,11 @@
 
 I'm **Ali** living in **Kish Island, Iran** which is absent from most country lists you find on the web. <br>
 I'm also a **dad** and a full-stack design driven developer (🖌 🚙 🖥). <br>
-Aside from **HTML** and **CSS** dialects I mostly speak **JavaScript** and **PHP** with computers and sometimes other humans. <br>
+Aside from **HTML** and **CSS** dialects I mostly speak **JavaScript (TypeScript)** and **PHP** with computers and sometimes other humans. <br>
 For the past 20 years, I've been learning how people make computers to turn the electricity ⚡️ to cool actions and things.
 
-- 👨🏻‍💻 I’m currently working on an online coaching platform, using [Strapi](https://github.com/strapi/strapi) and [Nuxt.js](https://github.com/nuxt/nuxt.js)
-- 🌱 I’m currently learning [Rust](https://github.com/rust-lang)
+- 👨🏻‍💻 I’m currently working on a full-stack web app, using [Nuxt.js](https://github.com/nuxt/nuxt.js) and [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm)
+- 🌱 I’m currently learning [Rust](https://github.com/rust-lang) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My first encounter with a computer was an IBM mainframe.
 
