@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm **Ali** living in **Kish Island, Iran** which is absent from most country lists you find on the web. <br>
-I'm also a **husband** and a **father** along with being a full-stack design driven developer (🖌 🚙 🖥). <br>
+I'm **Ali** living currently living in **Tehran, Iran** which is absent from most country lists you find on the web. <br>
+I'm also a **husband** and a **father** along with being a full-stack developer. <br>
 Aside from **HTML** and **CSS** dialects I mostly speak **JavaScript (TypeScript)** and **PHP** with computers and sometimes other humans. <br>
-For the past ~20 years, I've been learning how people make computers to turn the electricity ⚡️ to cool actions and things.
+For the past ~20 years, I've been learning how people make computers to turn the electricity ⚡️ into cool actions and things.
 
 - 👨🏻‍💻 I’m currently working on a full-stack web app, using [Nuxt.js](https://github.com/nuxt/nuxt.js) and [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm)
 - 🌱 I’m currently learning [Rust](https://github.com/rust-lang) 
